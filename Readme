@@ -1,17 +1,14 @@
-<!-- #Retail Sales Analysis Project
-
-## Project Overview -->
-
-<!-- Project Title: Retail Sales Analysis   -->
-
+Project Overview 
+Project Title: Retail Sales Analysis
 This project is designed to showcase SQL skills typically used by data analysts to explore, clean, and analyze data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
 
 Project Structure
-
 1. Database Setup
 2. Data Exploration & Cleaning
 3. Data Analysis & Findings
 4. Business Analysis
+
+Questions:
 
 1. **Write a SQL query to retrieve all columns for sales made on '2022-11-05**:
 
@@ -40,6 +37,3 @@ Project Structure
 
 
 10. **Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17)**:
-
-
-
